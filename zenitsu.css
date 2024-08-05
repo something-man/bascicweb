@@ -1,0 +1,30 @@
+body{
+    background-image: url("./zenitsubackground.jpg");
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow:hidden;
+}
+h1{
+    font-style: italic;
+    position: relative;
+    right: -110px;
+    top: 40px;
+}
+img{
+    display: flex;
+    justify-content: left;
+    position: relative;
+    right: 70px;
+    top: 30px;
+}
+p{
+    color: white;
+    position: absolute;
+    top: 150px;
+    left: 400px;
+    padding: 20px;
+    text-align: justify;
+    line-height:22px;
+}

@@ -1,0 +1,80 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.container{
+    width: 800px;
+    height: 600px;
+    background-color:transparent; 
+    text-align: center;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;   
+}
+.one{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 50px;
+    background-color: azure;
+    border-radius: 20px;
+}
+.two{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 50px;
+    background-color: azure;
+    border-radius: 20px;
+}
+.three{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 50px;
+    background-color: azure;
+    border-radius: 20px;
+}
+.four{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 50px;
+    background-color: azure;
+    border-radius: 20px;
+}
+body{
+    background-image: url("demon.jpg");
+    background-size: cover;
+}
+.parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    display: grid;
+    grid-gap: 30px;
+}
+.one:hover{
+    background-color: rgb(156, 228, 180);
+}
+a{  
+    text-decoration: none;
+}
+.two:hover{
+    background-color: rgb(156, 228, 180);
+}
+.three:hover{
+    background-color: rgb(156, 228, 180);
+}
+.four:hover{
+    background-color: rgb(156, 228, 180);
+}

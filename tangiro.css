@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url("./tangirobackground.jpg");
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow:hidden;
+}
+h1{
+    font-style: italic;
+    position: relative;
+    right: -80px;
+    top: 40px;
+}
+img{
+    display: flex;
+    justify-content: left;
+    position: relative;
+    bottom: 40px;
+}
+p{
+    color: white;
+    position: absolute;
+    top: 150px;
+    left: 400px;
+    padding: 20px;
+    text-align: justify;
+    line-height:22px;
+}

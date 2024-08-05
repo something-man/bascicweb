@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("./nezukobackground.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-style: italic;
+    position: relative;
+    top: 30px;
+    right: -50px;
+}
+img{
+    display: flex;
+    justify-content: left;
+    position: relative;
+    position: relative;
+    top: 50px;
+    right: 40px;
+    
+}
+p{
+    color: white;
+    position: absolute;
+    top: 150px;
+    left: 400px;
+    padding: 20px;
+    text-align: justify;
+    line-height:22px;
+}
